@@ -1,0 +1,13 @@
+﻿{
+  "ShowCapture": true,
+  "ScanWidth": 42,
+  "ScanHeight": 44,
+  "Previous": "0, 0, 0",
+  "RearColor": "80, 77, 76",
+  "TopMost": false,
+  "MinArea": 22,
+  "MinVertex": 21,
+  "MaxArea": 325,
+  "MaxVertex": 333,
+  "CaptureImageMode": 0
+}

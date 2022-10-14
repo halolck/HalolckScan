@@ -1,0 +1,20 @@
+{
+  "Area": 0,
+  "CaptureImageMode": 0,
+  "Previous": {
+    "knownColor": 0,
+    "name": null,
+    "state": 2,
+    "value": 4278190080
+  },
+  "RearColor": {
+    "knownColor": 35,
+    "name": null,
+    "state": 1,
+    "value": 0
+  },
+  "ScanHeight": 1,
+  "ScanWidth": 1,
+  "TopMost": false,
+  "Vertex": 0
+}
